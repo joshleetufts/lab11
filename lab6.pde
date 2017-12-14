@@ -36,7 +36,7 @@ color textInDiag = color(0);
  */
 ColorScheme cs = null;
 void settings(){
-    size(iWidth, iHeight);
+    size(800, 600);
     pixelDensity(displayDensity());
 }
 void setup(){
