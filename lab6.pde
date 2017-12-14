@@ -42,7 +42,6 @@ void settings(){
 void setup(){
     textAlign(LEFT);
     textSize(11);
-    surface.setTitle("ColorScheme");
     example();
 }
 
