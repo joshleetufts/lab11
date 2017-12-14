@@ -40,6 +40,7 @@ void settings(){
     pixelDensity(displayDensity());
 }
 void setup(){
+    size(800, 600);
     textAlign(LEFT);
     textSize(11);
     example();
